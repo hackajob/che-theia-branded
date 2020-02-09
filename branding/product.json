@@ -1,0 +1,22 @@
+{
+    "name": "hackajob",
+    "icon": "hackajob-icon.png",
+    "logo": {
+        "dark": "hackajob-logo-light.png",
+        "light": "hackajob-logo-dark.png"
+    },
+    "welcome": {
+        "title": "Welcome to Your Challenge",
+        "links": ["website", "documentation"]
+    },
+    "links": {
+        "website": {
+            "name": "Discover hackajob.co",
+            "url": "https://hackajob.co"
+        },
+        "documentation": {
+            "name": "How It Works",
+            "url": "https://hackajob.co/p/how-it-works/candidate"
+        }
+    }
+}
