@@ -1,9 +1,9 @@
 {
     "name": "hackajob",
-    "icon": "hackajob-icon.png",
+    "icon": "https://raw.githubusercontent.com/hackajob/che-theia-branded/master/branding/hackajob-icon.png",
     "logo": {
-        "dark": "hackajob-logo-light.png",
-        "light": "hackajob-logo-dark.png"
+        "dark": "https://raw.githubusercontent.com/hackajob/che-theia-branded/master/branding/hackajob-logo-light.png",
+        "light": "https://raw.githubusercontent.com/hackajob/che-theia-branded/master/branding/hackajob-logo-dark.png"
     },
     "welcome": {
         "title": "Welcome to Your Challenge",
