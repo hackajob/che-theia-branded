@@ -8,7 +8,7 @@
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
 
-FROM hackajobchallenges/che-theia:7.8.0
+FROM hackajobchallenges/che-theia:7.26.1
 
 COPY branding ${HOME}/branding
 
