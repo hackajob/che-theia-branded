@@ -7,16 +7,16 @@
     },
     "welcome": {
         "title": "Welcome to Your Challenge",
-        "links": ["website", "documentation"]
+        "links": ["website", "success-stories"]
     },
     "links": {
         "website": {
             "name": "Discover hackajob.co",
             "url": "https://hackajob.co"
         },
-        "documentation": {
-            "name": "How It Works",
-            "url": "https://hackajob.co/p/how-it-works/candidate"
+        "success-stories": {
+            "name": "Success Stories",
+            "url": "https://hackajob.co/talent/success-stories"
         }
     }
 }
