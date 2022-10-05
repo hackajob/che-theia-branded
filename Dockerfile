@@ -11,5 +11,6 @@
 FROM hackajobchallenges/che-theia:7.26.1
 
 COPY branding ${HOME}/branding
+COPY lib/index.html /home/theia/lib/index.html
 
 ENV PRODUCT_JSON=${HOME}/branding/product.json
